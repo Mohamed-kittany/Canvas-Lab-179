@@ -4,6 +4,14 @@
 
 This lab instructs you on how to migrate the café web application from using a local database instance to a fully managed Amazon Relational Database Service (Amazon RDS) database.
 
+### Starting architecture
+
+<img width="408" alt="StartingArchitecture" src="https://github.com/Mohamed-kittany/Canvas-Lab-179/assets/161580792/7fe37445-7e04-4d63-9b09-76f3e8effa7b">
+
+### Final architecture
+
+<img width="758" alt="FinalArchitecture" src="https://github.com/Mohamed-kittany/Canvas-Lab-179/assets/161580792/a34fbc51-95b0-4ed4-933f-feca81a72da8">
+
 ## Steps Involved
 
 ### 1. Data Preparation
